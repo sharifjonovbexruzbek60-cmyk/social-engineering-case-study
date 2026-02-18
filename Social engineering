@@ -1,0 +1,30 @@
+#  Human Factor & Social Engineering Analysis
+
+##  Project Overview
+At 13 years old, I am exploring the world of cybersecurity. This repository documents my practical study of the **Human Factor**—the weakest link in any security system. Using tools like CamPhisher in a controlled environment, I analyzed how attackers use psychological pressure to manipulate users into giving up their privacy.
+
+##  Key Insights Learned
+Through this experiment, I moved beyond just using a tool and began to understand the "hacker mindset":
+
+1. **Psychological Manipulation:** I learned that attackers don't always "break in"; they often get "invited in" by exploiting curiosity or fear.
+2. **The "Mamont" Phenomenon:** I analyzed why untrained users (often called "Mamonts" in the CIS hacking underground) fail to notice red flags, such as suspicious URL structures or unnecessary browser permission requests.
+3. **Authorization Vulnerabilities:** I observed how easily people grant camera/microphone access to unknown links without verifying the source.
+
+##  Tools & Methodology
+* **Tool Analyzed:** CamPhisher (for educational research on camera-based phishing).
+* **Technique:** Social Engineering via URL masking.
+* **Environment:** Ethical testing on a friend's device (with permission) to demonstrate real-world risks.
+
+##  Defensive Takeaways (How to Stay Safe)
+Based on my findings, here is how users can protect themselves:
+* **Zero Trust:** Never trust a link sent without context, even from friends.
+* **Permission Audit:** Always deny camera/location access to any site that doesn't strictly need it to function.
+* **URL Inspection:** Look for typosquatting or strange domains before clicking.
+
+##  Career Goals
+- [ ] Master Python for automating security audits.
+- [ ] Complete the [TryHackMe Junior Penetration Tester](https://tryhackme.com) path.
+- [ ] Transition from using tools to writing custom security scripts.
+
+---
+** Disclaimer:** This project is for educational purposes only. I advocate for **White Hat** hacking and strictly follow ethical guidelines. Unauthorized access to data is a crime.
